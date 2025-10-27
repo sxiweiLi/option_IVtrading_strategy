@@ -13,8 +13,8 @@ Generally, more negative ts_slope = better
 
 What is it? - Describes market's expectation of future volatility (from option prices) versus historical volatility calculated from the stock's price movements
 What does this mean?
-- >1 --> options are expensive relative to historical volatilty --> market expects more volatility than past
-- <1 --> options are cheap relative to past volatilty --> market expects calmer conditions
+- > 1 --> options are expensive relative to historical volatilty --> market expects more volatility than past
+- < 1 --> options are cheap relative to past volatilty --> market expects calmer conditions
 Generally, higher IV / RV ratio = better
 
 3. 30-Day Average Volume (avg_volume)
